@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="3">
+      <Unit0>
+        <Filename Value="gordot.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="gordot"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="50" Y="9"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="gordondisplayobject.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="GordonDisplayObject"/>
+        <EditorIndex Value="1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="65" Y="14"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="gordonapplication.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="GordonApplication"/>
+        <EditorIndex Value="2"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="7"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit2>
+    </Units>
+    <General>
+      <ActiveWindowIndexAtStart Value="0"/>
+    </General>
+    <JumpHistory Count="4" HistoryIndex="3">
+      <Position1>
+        <Filename Value="gordondisplayobject.pas"/>
+        <Caret Line="13" Column="7" TopLine="1"/>
+      </Position1>
+      <Position2>
+        <Filename Value="gordonapplication.pas"/>
+        <Caret Line="15" Column="22" TopLine="1"/>
+      </Position2>
+      <Position3>
+        <Filename Value="gordonapplication.pas"/>
+        <Caret Line="8" Column="20" TopLine="1"/>
+      </Position3>
+      <Position4>
+        <Filename Value="gordonapplication.pas"/>
+        <Caret Line="13" Column="26" TopLine="1"/>
+      </Position4>
+    </JumpHistory>
+  </ProjectSession>
+  <EditorMacros Count="0"/>
+</CONFIG>
