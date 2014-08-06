@@ -6,9 +6,16 @@ uses
   {$IFDEF UNIX}{$IFDEF UseCThreads}
   cthreads,
   {$ENDIF}{$ENDIF}
-  Classes, GordonDisplayObject, GordonApplication
+  Classes, GordonDisplayObject, GordonApplication, GordonSprite
   { you can add units after this };
 
+var
+  MyApplication: TGDApplication;
+
 begin
+  MyApplication := TGDApplication.Create;
+
+
+
 end.
 

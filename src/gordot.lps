@@ -4,7 +4,7 @@
     <PathDelim Value="\"/>
     <Version Value="9"/>
     <BuildModes Active="Default"/>
-    <Units Count="3">
+    <Units Count="4">
       <Unit0>
         <Filename Value="gordot.lpr"/>
         <IsPartOfProject Value="True"/>
@@ -13,7 +13,7 @@
         <EditorIndex Value="0"/>
         <WindowIndex Value="0"/>
         <TopLine Value="1"/>
-        <CursorPos X="50" Y="9"/>
+        <CursorPos X="3" Y="18"/>
         <UsageCount Value="20"/>
         <Loaded Value="True"/>
       </Unit0>
@@ -24,7 +24,7 @@
         <EditorIndex Value="1"/>
         <WindowIndex Value="0"/>
         <TopLine Value="1"/>
-        <CursorPos X="65" Y="14"/>
+        <CursorPos X="15" Y="34"/>
         <UsageCount Value="20"/>
         <Loaded Value="True"/>
       </Unit1>
@@ -32,18 +32,29 @@
         <Filename Value="gordonapplication.pas"/>
         <IsPartOfProject Value="True"/>
         <UnitName Value="GordonApplication"/>
-        <EditorIndex Value="2"/>
+        <EditorIndex Value="3"/>
         <WindowIndex Value="0"/>
         <TopLine Value="1"/>
-        <CursorPos X="1" Y="7"/>
+        <CursorPos X="33" Y="44"/>
         <UsageCount Value="20"/>
         <Loaded Value="True"/>
       </Unit2>
+      <Unit3>
+        <Filename Value="gordonsprite.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="GordonSprite"/>
+        <EditorIndex Value="2"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="28" Y="33"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit3>
     </Units>
     <General>
       <ActiveWindowIndexAtStart Value="0"/>
     </General>
-    <JumpHistory Count="4" HistoryIndex="3">
+    <JumpHistory Count="10" HistoryIndex="9">
       <Position1>
         <Filename Value="gordondisplayobject.pas"/>
         <Caret Line="13" Column="7" TopLine="1"/>
@@ -60,6 +71,30 @@
         <Filename Value="gordonapplication.pas"/>
         <Caret Line="13" Column="26" TopLine="1"/>
       </Position4>
+      <Position5>
+        <Filename Value="gordonapplication.pas"/>
+        <Caret Line="17" Column="20" TopLine="1"/>
+      </Position5>
+      <Position6>
+        <Filename Value="gordondisplayobject.pas"/>
+        <Caret Line="16" Column="32" TopLine="1"/>
+      </Position6>
+      <Position7>
+        <Filename Value="gordonapplication.pas"/>
+        <Caret Line="21" Column="53" TopLine="1"/>
+      </Position7>
+      <Position8>
+        <Filename Value="gordonsprite.pas"/>
+        <Caret Line="21" Column="57" TopLine="1"/>
+      </Position8>
+      <Position9>
+        <Filename Value="gordonsprite.pas"/>
+        <Caret Line="35" Column="21" TopLine="1"/>
+      </Position9>
+      <Position10>
+        <Filename Value="gordonapplication.pas"/>
+        <Caret Line="44" Column="9" TopLine="10"/>
+      </Position10>
     </JumpHistory>
   </ProjectSession>
   <EditorMacros Count="0"/>
