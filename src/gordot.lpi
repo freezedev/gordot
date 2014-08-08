@@ -31,7 +31,7 @@
         <FormatVersion Value="1"/>
       </local>
     </RunParams>
-    <Units Count="6">
+    <Units Count="7">
       <Unit0>
         <Filename Value="gordot.lpr"/>
         <IsPartOfProject Value="True"/>
@@ -62,6 +62,11 @@
         <IsPartOfProject Value="True"/>
         <UnitName Value="GordonTexture"/>
       </Unit5>
+      <Unit6>
+        <Filename Value="gordonstage.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="GordonStage"/>
+      </Unit6>
     </Units>
   </ProjectOptions>
   <CompilerOptions>

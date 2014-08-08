@@ -4,50 +4,50 @@
     <PathDelim Value="\"/>
     <Version Value="9"/>
     <BuildModes Active="Default"/>
-    <Units Count="6">
+    <Units Count="7">
       <Unit0>
         <Filename Value="gordot.lpr"/>
         <IsPartOfProject Value="True"/>
         <UnitName Value="gordot"/>
-        <IsVisibleTab Value="True"/>
         <EditorIndex Value="0"/>
         <WindowIndex Value="0"/>
         <TopLine Value="1"/>
-        <CursorPos X="3" Y="6"/>
-        <UsageCount Value="20"/>
+        <CursorPos X="20" Y="6"/>
+        <UsageCount Value="21"/>
         <Loaded Value="True"/>
       </Unit0>
       <Unit1>
         <Filename Value="gordondisplayobject.pas"/>
         <IsPartOfProject Value="True"/>
         <UnitName Value="GordonDisplayObject"/>
-        <EditorIndex Value="3"/>
+        <EditorIndex Value="4"/>
         <WindowIndex Value="0"/>
         <TopLine Value="1"/>
-        <CursorPos X="15" Y="34"/>
-        <UsageCount Value="20"/>
+        <CursorPos X="72" Y="18"/>
+        <UsageCount Value="21"/>
         <Loaded Value="True"/>
       </Unit1>
       <Unit2>
         <Filename Value="gordonapplication.pas"/>
         <IsPartOfProject Value="True"/>
         <UnitName Value="GordonApplication"/>
-        <EditorIndex Value="5"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="6"/>
         <WindowIndex Value="0"/>
         <TopLine Value="1"/>
-        <CursorPos X="33" Y="44"/>
-        <UsageCount Value="20"/>
+        <CursorPos X="20" Y="32"/>
+        <UsageCount Value="21"/>
         <Loaded Value="True"/>
       </Unit2>
       <Unit3>
         <Filename Value="gordonsprite.pas"/>
         <IsPartOfProject Value="True"/>
         <UnitName Value="GordonSprite"/>
-        <EditorIndex Value="4"/>
+        <EditorIndex Value="5"/>
         <WindowIndex Value="0"/>
-        <TopLine Value="1"/>
-        <CursorPos X="28" Y="33"/>
-        <UsageCount Value="20"/>
+        <TopLine Value="6"/>
+        <CursorPos X="30" Y="36"/>
+        <UsageCount Value="21"/>
         <Loaded Value="True"/>
       </Unit3>
       <Unit4>
@@ -58,7 +58,7 @@
         <WindowIndex Value="0"/>
         <TopLine Value="1"/>
         <CursorPos X="35" Y="14"/>
-        <UsageCount Value="20"/>
+        <UsageCount Value="21"/>
         <Loaded Value="True"/>
       </Unit4>
       <Unit5>
@@ -68,10 +68,21 @@
         <EditorIndex Value="2"/>
         <WindowIndex Value="0"/>
         <TopLine Value="2"/>
-        <CursorPos X="22" Y="36"/>
-        <UsageCount Value="20"/>
+        <CursorPos X="66" Y="28"/>
+        <UsageCount Value="21"/>
         <Loaded Value="True"/>
       </Unit5>
+      <Unit6>
+        <Filename Value="gordonstage.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="GordonStage"/>
+        <EditorIndex Value="3"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="21" Y="31"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit6>
     </Units>
     <General>
       <ActiveWindowIndexAtStart Value="0"/>
