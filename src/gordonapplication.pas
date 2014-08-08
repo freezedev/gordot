@@ -5,7 +5,7 @@ unit GordonApplication;
 interface
 
 uses
-  Classes, SysUtils, GordonSprite, GordonDisplayObject;
+  Classes, SysUtils, GordonStage, GordonDisplayObject;
 
 type
 
@@ -13,7 +13,7 @@ type
 
   TGDApplication = class(TObject)
   private
-    fRoot: TGDSprite;
+    fRoot: TGDStage;
   public
     constructor Create;
     destructor Destroy; Override;
@@ -29,7 +29,7 @@ constructor TGDApplication.Create;
 begin
   inherited Create;
 
-  fRoot := TGDSprite.Create;
+  fRoot := TGDStage.Create;
 end;
 
 destructor TGDApplication.Destroy;
